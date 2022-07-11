@@ -8,8 +8,8 @@ from azure.storage.filedatalake._models import ContentSettings
 from random import randint
 
 # # Storage Account Key
-storage_account_key = 'OwHPjp/u8EXbX7Mdh7Z9nP6fexnWxxVDsPKvH0cimhs2cP+3TwE1ahbmI5IcWYuzvt1xrhKhtDGo+ASt5zLwkg=='
-storage_account_name = 'bigdatatableaustorageacc'
+storage_account_key = '-'
+storage_account_name = '-'
 
 # # Open the other half of the csv and create a list
 data = pd.read_csv('query.csv')
